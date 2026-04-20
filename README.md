@@ -20,15 +20,12 @@
 ![APB](https://img.shields.io/badge/APB-2ECC71?style=for-the-badge)
 ![OBI](https://img.shields.io/badge/OBI-34495E?style=for-the-badge)
 
-## 🧰 EDA Tools
+## 🧰 EDA Tools Vendors
 
 ![Cadence](https://img.shields.io/badge/Cadence-ED1C24?style=for-the-badge)
 ![Synopsys](https://img.shields.io/badge/Synopsys-003366?style=for-the-badge)
-![Xcelium](https://img.shields.io/badge/Xcelium-000000?style=for-the-badge)
-![Innovus](https://img.shields.io/badge/Innovus-555555?style=for-the-badge)
-![Genus](https://img.shields.io/badge/Genus-888888?style=for-the-badge)
-![Modus](https://img.shields.io/badge/Modus-444444?style=for-the-badge)
-![Conformal](https://img.shields.io/badge/Conformal-222222?style=for-the-badge)
+
+---
 
 🎓 Estudante de Engenharia Elétrica na UFCG  
 🔬 Foco em Microeletrônica Digital (Design, Verificação e Backend)  
