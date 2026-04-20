@@ -31,6 +31,7 @@
 🔬 Foco em Microeletrônica Digital (Design, Verificação e Backend)  
 🏆 Ex Presidente e fundador do IEEE CASS UFCG  
 ⚙️ Membro do programa CI Expert (Softex)  
+⚡ Membro do Laboratorio de Excelencia em Microeletrônica do Nordeste (XMEN) 
 
 ---
 
