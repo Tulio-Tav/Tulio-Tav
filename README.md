@@ -1,4 +1,4 @@
-## 🧠 Linguagens
+##  Linguagens
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -6,13 +6,13 @@
 ![Verilog](https://img.shields.io/badge/Verilog-FF6F00?style=for-the-badge)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-E74C3C?style=for-the-badge)
 
-## 🌐 Web & Interface
+##  Web & Interface
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## ⚙️ Hardware & Verification
+##  Hardware & Verification
 
 ![UVM](https://img.shields.io/badge/UVM-8E44AD?style=for-the-badge)
 ![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge)
@@ -20,22 +20,22 @@
 ![APB](https://img.shields.io/badge/APB-2ECC71?style=for-the-badge)
 ![OBI](https://img.shields.io/badge/OBI-34495E?style=for-the-badge)
 
-## 🧰 EDA Tools Vendors
+## EDA Tools Vendors
 
 ![Cadence](https://img.shields.io/badge/Cadence-ED1C24?style=for-the-badge)
 ![Synopsys](https://img.shields.io/badge/Synopsys-003366?style=for-the-badge)
 
 ---
 
-🎓 Estudante de Engenharia Elétrica na UFCG  
-🔬 Foco em Microeletrônica Digital (Design, Verificação e Backend)  
-🏆 Ex Presidente e fundador do IEEE CASS UFCG  
-⚙️ Membro do programa CI Expert (Softex)  
-⚡ Membro do Laboratorio de Excelencia em Microeletrônica do Nordeste (XMEN) 
+ Estudante de Engenharia Elétrica na UFCG  
+ Foco em Microeletrônica Digital (Design, Verificação e Backend)  
+ Ex Presidente e fundador do IEEE CASS UFCG  
+ Membro do programa CI Expert (Softex)  
+ Membro do Laboratorio de Excelencia em Microeletrônica do Nordeste (XMEN) 
 
 ---
 
-## 🧠 Áreas de Interesse
+##  Áreas de Interesse
 
 - Arquitetura de Computadores (RISC-V)
 - Verificação Funcional (UVM / SystemVerilog)
@@ -46,7 +46,7 @@
 
 ---
 
-## 🔧 Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 - Credly: [Certificados e Badges](https://www.credly.com/users/tulio-rafael-de-aguiar-tavares) 
 
@@ -59,20 +59,20 @@
 
 ---
 
-## 🚀 Projetos em Destaque
+##  Projetos em Destaque
 
-### 🐦 [BlueMacaw Microcontroller](https://sites.google.com/inf.ufsm.br/bluemacaw)
+###  [BlueMacaw Microcontroller](https://sites.google.com/inf.ufsm.br/bluemacaw)
 Microcontrolador baseado em RISC-V desenvolvido com foco acadêmico e pesquisa.
 
 ---
 
-## 📊 Atuação Acadêmica & Liderança
+##  Atuação Acadêmica & Liderança
 
-- 👨‍🏫 Ex Presidente IEEE CASS UFCG
-- ⚡ Ex Integrante do PET-Elétrica
-- 🧠 Organização de minicursos (Linux, Microeletrônica)
-- 🎤 Produção de conteúdo técnico (IA, Hardware)
-- 🤝 Participação em projetos com VIRTUS/EMBRAPII
+-  Ex Presidente IEEE CASS UFCG
+-  Ex Integrante do PET-Elétrica
+-  Organização de minicursos (Linux, Microeletrônica)
+-  Produção de conteúdo técnico (IA, Hardware)
+-  Participação em projetos com VIRTUS/EMBRAPII
 
 
 ## 📫 Contato
